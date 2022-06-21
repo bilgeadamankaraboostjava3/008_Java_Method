@@ -9,7 +9,6 @@ public class Runner_Ornek_ReturnAndParameters {
 	}
 	
 	
-	
 	public static int Toplama(int s1,int s2,int s3) {
 		int toplam = s1 + s2 + s3;
 		return toplam;
